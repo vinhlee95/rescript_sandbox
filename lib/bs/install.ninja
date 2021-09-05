@@ -1,0 +1,10 @@
+rescript = 1
+rule cp
+  command = cp $i $out
+rule touch
+ command = touch $out
+o variableDeclaration.cmi : cp ../bs/src/variableDeclaration.cmi
+o variableDeclaration.cmj : cp ../bs/src/variableDeclaration.cmj
+o variableDeclaration.cmt : cp ../bs/src/variableDeclaration.cmt
+o variableDeclaration.res : cp ../../src/variableDeclaration.res
+build install.stamp : touch variableDeclaration.cmi variableDeclaration.cmj 

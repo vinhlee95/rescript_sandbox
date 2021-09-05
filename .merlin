@@ -1,0 +1,8 @@
+####{BSB GENERATED: NO EDIT
+FLG -ppx '/Users/vinhle/dev/reason_ml/rescript/rescript_sandbox/node_modules/rescript/darwin/bsc.exe -as-ppx '
+S /Users/vinhle/dev/reason_ml/rescript/rescript_sandbox/node_modules/rescript/lib/ocaml
+B /Users/vinhle/dev/reason_ml/rescript/rescript_sandbox/node_modules/rescript/lib/ocaml
+FLG -w +a-4-9-20-40-41-42-50-61-102
+S src
+B lib/bs/src
+####BSB GENERATED: NO EDIT}

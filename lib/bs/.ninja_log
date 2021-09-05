@@ -1,0 +1,16 @@
+# ninja log v6
+0	13	1630855685938623064	src/variableDeclaration.ast	dae7fd5446736052
+13	184	1630855686109807632	src/variableDeclaration.d	f6ecf943f2e4eb4e
+184	198	1630855686124401524	src/variableDeclaration.cmj	41a5ec696e7fd2b5
+184	198	1630855686124401524	src/variableDeclaration.cmi	41a5ec696e7fd2b5
+184	198	1630855686124401524	../../src/variableDeclaration.js	41a5ec696e7fd2b5
+0	13	1630855725815708617	src/variableDeclaration.ast	dae7fd5446736052
+13	20	1630855725815708617	src/variableDeclaration.d	f6ecf943f2e4eb4e
+20	34	1630855725815708617	src/variableDeclaration.cmj	41a5ec696e7fd2b5
+20	34	1630855725815708617	src/variableDeclaration.cmi	41a5ec696e7fd2b5
+20	34	1630855725815708617	../../src/variableDeclaration.js	41a5ec696e7fd2b5
+0	13	1630855731151048173	src/variableDeclaration.ast	dae7fd5446736052
+13	22	1630855731151048173	src/variableDeclaration.d	f6ecf943f2e4eb4e
+23	37	1630855731151048173	src/variableDeclaration.cmj	41a5ec696e7fd2b5
+23	37	1630855731151048173	src/variableDeclaration.cmi	41a5ec696e7fd2b5
+23	37	1630855731151048173	../../src/variableDeclaration.js	41a5ec696e7fd2b5

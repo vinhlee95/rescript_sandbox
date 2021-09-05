@@ -1,0 +1,20 @@
+{
+  "name": "rescript_sandbox",
+  "version": "1.0.0",
+  "description": "Everything that a starter needs to get into Rescript",
+  "main": "index.js",
+  "scripts": {
+    "build": "rescript",
+    "clean": "rescript clean -with-deps",
+    "start": "rescript build -w",
+    "output-js": "nodemon"
+  },
+  "author": "Vinh Le (lethanhvinh95@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "rescript": "*"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
