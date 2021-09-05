@@ -5,6 +5,7 @@ Js.log(greeting)
 let message = {
     let foo = "foo"
     let bar = "bar"
+    
     Js.log(foo ++ " " ++ bar)
 }
 
