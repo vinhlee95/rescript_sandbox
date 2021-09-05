@@ -6,5 +6,10 @@ var greeting = "hello";
 
 console.log(greeting);
 
+console.log("foo bar");
+
+var message;
+
 exports.greeting = greeting;
+exports.message = message;
 /*  Not a pure module */
