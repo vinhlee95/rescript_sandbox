@@ -8,8 +8,13 @@ console.log(greeting);
 
 console.log("foo bar");
 
+console.log("baz");
+
 var message;
+
+var foo = "bar";
 
 exports.greeting = greeting;
 exports.message = message;
+exports.foo = foo;
 /*  Not a pure module */
